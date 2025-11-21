@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: linear-gradient(90deg, #FFEFBA 0%, #FFFFFF 100%);
+    overflow-x: hidden;
+    
+    margin: 0;
+}
+header{
+margin: 0 auto;
+width: 1365px;
+    height:561px;
+}
+
+
+
+
+.maincontainer img{
+    margin: 0px 16px 0px 48px;
+    padding: 5px 0px 5px 24px;
+}
+.navlinks{
+    display: flex;
+    justify-content:space-evenly;
+    
+
+}
+.navlinks a{
+text-decoration: none;
+gap: 20px;
+}
